@@ -1,0 +1,15 @@
+*.dep
+*.pdb
+*.stp
+*.stw
+*.wdb
+*.wed
+*.ewd
+*.ewp
+*.ewt
+*.eww
+*.xlsx
+settings/
+Debug/
+Release/
+clock.*
